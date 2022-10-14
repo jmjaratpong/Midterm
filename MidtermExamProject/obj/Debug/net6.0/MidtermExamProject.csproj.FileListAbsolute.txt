@@ -1,0 +1,15 @@
+C:\Users\jarat\Documents\MidtermExamProject\bin\Debug\net6.0\MidtermExamProject.exe
+C:\Users\jarat\Documents\MidtermExamProject\bin\Debug\net6.0\MidtermExamProject.deps.json
+C:\Users\jarat\Documents\MidtermExamProject\bin\Debug\net6.0\MidtermExamProject.runtimeconfig.json
+C:\Users\jarat\Documents\MidtermExamProject\bin\Debug\net6.0\MidtermExamProject.dll
+C:\Users\jarat\Documents\MidtermExamProject\bin\Debug\net6.0\MidtermExamProject.pdb
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.csproj.AssemblyReference.cache
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.AssemblyInfoInputs.cache
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.AssemblyInfo.cs
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.csproj.CoreCompileInputs.cache
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.dll
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\refint\MidtermExamProject.dll
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.pdb
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\MidtermExamProject.genruntimeconfig.cache
+C:\Users\jarat\Documents\MidtermExamProject\obj\Debug\net6.0\ref\MidtermExamProject.dll
